@@ -18,7 +18,3 @@
 Presentation Video:
 
 https://www.youtube.com/watch?v=sZ8RS6IgNag
-
-Detection Demonstration Video:
-
-https://www.youtube.com/watch?v=N6bJwB6gYvk
